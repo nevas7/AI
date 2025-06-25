@@ -1,0 +1,25 @@
+# Ignore Conda environment folder
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+
+# Environments and virtualenvs
+.venv/
+*.egg-info/
