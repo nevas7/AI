@@ -19,3 +19,5 @@ print(4//2)
 
 print(round(2/6, 2))
 print(abs(-5))
+
+print(int('0b101', 2))
