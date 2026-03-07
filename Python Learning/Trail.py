@@ -16,3 +16,6 @@ print(type(2/6))
 print(2//6)
 print(5//2) 
 print(4//2)
+
+print(round(2/6, 2))
+print(abs(-5))
