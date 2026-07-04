@@ -5,6 +5,10 @@
 # def filterOdd(item):
 #     return item % 2 != 0
 
-# # print(list(map(multiplyBy2, myList)))
-# print(list(filter(filterOdd, myList)))
-print('Hello Nevas')
+# print(list(map(multiplyBy2, myList)))
+print(list(filter(filterOdd, myList)))
+
+print(2+4)
+print(2/6)
+print(type(2+4))
+print(type(2/6))
